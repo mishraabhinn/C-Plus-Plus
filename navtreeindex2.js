@@ -1,5 +1,17 @@
 var NAVTREEINDEX2 =
 {
+"d8/d8a/exponential__search_8cpp.html":[8,0,9,1],
+"d8/d8a/exponential__search_8cpp.html#a0f697e2a3b5193324ab84bd4045088f7":[8,0,9,1,0],
+"d8/d8a/exponential__search_8cpp.html#a67e9c84b4e2eb30e3c5170eabfbb363d":[8,0,9,1,2],
+"d8/d8a/exponential__search_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,9,1,1],
+"d8/dab/classstatistics_1_1stats__computer2.html":[7,0,1,1],
+"d8/dab/classstatistics_1_1stats__computer2.html#a0acea0729769f430f2dc56260d179745":[7,0,1,1,6],
+"d8/dab/classstatistics_1_1stats__computer2.html#a7e7a1a2b0a03df0a70cac40d193421d2":[7,0,1,1,4],
+"d8/dab/classstatistics_1_1stats__computer2.html#a80099005c6e5f9569b75da0e49b14cf6":[7,0,1,1,7],
+"d8/dab/classstatistics_1_1stats__computer2.html#a8290966ad468f2a8c266d008bc60720e":[7,0,1,1,0],
+"d8/dab/classstatistics_1_1stats__computer2.html#a8daf58bdecd775b8a83ce9ad70c014c4":[7,0,1,1,5],
+"d8/dab/classstatistics_1_1stats__computer2.html#acf2e84df4fc386bb3295016ef8fd156e":[7,0,1,1,2],
+"d8/dab/classstatistics_1_1stats__computer2.html#ade6de704deea24fdc88077b3d9a0d534":[7,0,1,1,1],
 "d8/dab/classstatistics_1_1stats__computer2.html#ae1bfd81bd7bbbd4b0d51d7d956e532d2":[7,0,1,1,8],
 "d8/dab/classstatistics_1_1stats__computer2.html#af6198817084276113b3c064e87ce0555":[7,0,1,1,3],
 "d8/dc8/struct_point.html":[7,0,23],
@@ -237,17 +249,5 @@ var NAVTREEINDEX2 =
 "db/d8b/struct_node.html#ab1d228a881cf7465b2d42ea135781427":[7,0,22,5],
 "db/d8b/struct_node.html#af67b110ca1a258b793bf69d306929b22":[7,0,22,3],
 "db/d93/check__prime_8cpp.html":[8,0,4,3],
-"db/d93/check__prime_8cpp.html#aa18b3517017d99bb4024853bddba5532":[8,0,4,3,0],
-"db/d93/check__prime_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,4,3,1],
-"db/da9/classqueue.html":[7,0,26],
-"db/da9/classqueue.html#a089d4af5532e0a801f560070da6e1f86":[7,0,26,3],
-"db/da9/classqueue.html#a21381ee7f95daae0332665914780e970":[7,0,26,0],
-"db/da9/classqueue.html#a26f48801df462ade003b50739196fa4c":[7,0,26,4],
-"db/da9/classqueue.html#a36d47fdbedc199609818385110d9f922":[7,0,26,6],
-"db/da9/classqueue.html#a592c0580551ec0d3b4d43e8198d8a377":[7,0,26,5],
-"db/da9/classqueue.html#ab2019d91e28c06de325fb3076b93a930":[7,0,26,2],
-"db/da9/classqueue.html#ab45a4bfef7eba256a9c027bae86fc196":[7,0,26,10],
-"db/da9/classqueue.html#ac16ccadebb765e1ddbe415cdce1a17a5":[7,0,26,8],
-"db/da9/classqueue.html#ac2fff88dce4d7d2eb7134af382bd1b31":[7,0,26,7],
-"db/da9/classqueue.html#ad215eee654953d25150bb25d5ac12b7c":[7,0,26,1]
+"db/d93/check__prime_8cpp.html#aa18b3517017d99bb4024853bddba5532":[8,0,4,3,0]
 };
