@@ -173,7 +173,7 @@ int&#160;</td><td class="memItemRight" valign="bottom"><b>ans</b> = 0</td></tr>
 <p>Main Function </p>
 <div class="fragment"><div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;           {</div>
 <div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;    <span class="keywordtype">int</span> n, t, i, j, k = 0;</div>
-<div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;    cin &gt;&gt; n;</div>
+<div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;    <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/basic_istream.html">std::cin</a> &gt;&gt; n;</div>
 <div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;    <span class="keywordflow">for</span> (i = 0; i &lt; n; i++) {</div>
 <div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;        <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/basic_istream.html">std::cin</a> &gt;&gt; a[i]</div>
 <div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;    }</div>
@@ -181,7 +181,7 @@ int&#160;</td><td class="memItemRight" valign="bottom"><b>ans</b> = 0</td></tr>
 <div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;    bucket_size = <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/numeric/math/ceil.html">ceil</a>(<a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/numeric/math/sqrt.html">sqrt</a>(n));</div>
 <div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;    <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/basic_istream.html">std::cin</a> &gt;&gt; t;</div>
 <div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;    <span class="keywordflow">for</span> (i = 0; i &lt; t; i++) {</div>
-<div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;        cin &gt;&gt; q[i].l &gt;&gt; q[i].r;</div>
+<div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;        <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/basic_istream.html">std::cin</a> &gt;&gt; q[i].l &gt;&gt; q[i].r;</div>
 <div class="line"><a name="l00063"></a><span class="lineno">   63</span>&#160;        q[i].l--;</div>
 <div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160;        q[i].r--;</div>
 <div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160;        q[i].i = i;</div>
@@ -219,11 +219,10 @@ int&#160;</td><td class="memItemRight" valign="bottom"><b>ans</b> = 0</td></tr>
 <div class="line"><a name="l00097"></a><span class="lineno">   97</span>&#160;    }</div>
 <div class="line"><a name="l00098"></a><span class="lineno">   98</span>&#160;    <span class="comment">// Print unique elements in current range</span></div>
 <div class="line"><a name="l00099"></a><span class="lineno">   99</span>&#160;    <span class="keywordflow">for</span> (i = 0; i &lt; t; i++) {</div>
-<div class="line"><a name="l00100"></a><span class="lineno">  100</span>&#160;        </div>
-<div class="line"><a name="l00101"></a><span class="lineno">  101</span>&#160;        <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/basic_ostream.html">std::cout</a> &lt;&lt; bucket[i] &lt;&lt; <a class="code" href="../../d7/d35/matrix__exponentiation_8cpp.html#a600eaf353befc174637855795f12d258">endl</a>;</div>
-<div class="line"><a name="l00102"></a><span class="lineno">  102</span>&#160;    }</div>
-<div class="line"><a name="l00103"></a><span class="lineno">  103</span>&#160;    <span class="keywordflow">return</span> 0;</div>
-<div class="line"><a name="l00104"></a><span class="lineno">  104</span>&#160;}</div>
+<div class="line"><a name="l00100"></a><span class="lineno">  100</span>&#160;        <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/io/basic_ostream.html">std::cout</a> &lt;&lt; bucket[i] &lt;&lt; <a class="code" href="../../d7/d35/matrix__exponentiation_8cpp.html#a600eaf353befc174637855795f12d258">endl</a>;</div>
+<div class="line"><a name="l00101"></a><span class="lineno">  101</span>&#160;    }</div>
+<div class="line"><a name="l00102"></a><span class="lineno">  102</span>&#160;    <span class="keywordflow">return</span> 0;</div>
+<div class="line"><a name="l00103"></a><span class="lineno">  103</span>&#160;}</div>
 </div><!-- fragment -->
 </div>
 </div>
