@@ -26,10 +26,10 @@ var NAVTREE =
 [
   [ "Algorithms_in_C++", "index.html", [
     [ "The Algorithms - C++", "index.html", [
-      [ "Overview", "index.html#autotoc_md65", null ],
-      [ "Features", "index.html#autotoc_md66", null ],
-      [ "Documentation", "index.html#autotoc_md67", null ],
-      [ "Contributions", "index.html#autotoc_md68", null ]
+      [ "Overview", "index.html#autotoc_md64", null ],
+      [ "Features", "index.html#autotoc_md65", null ],
+      [ "Documentation", "index.html#autotoc_md66", null ],
+      [ "Contributions", "index.html#autotoc_md67", null ]
     ] ],
     [ "Contributor Covenant Code of Conduct", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html", [
       [ "Our Pledge", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md4", null ],
@@ -78,11 +78,9 @@ var NAVTREE =
       [ "Others", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md44", null ],
       [ "Probability", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md45", null ],
       [ "Range Queries", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md46", null ],
-      [ "* <a href=\"https://github.com/TheAlgorithms/C-Plus-Plus/blob/master/range_queries/mo_algorithm.cpp\">Mo Algorithm</a>", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md47", [
-        [ "Search", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md48", null ],
-        [ "Sorting", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md49", null ],
-        [ "Strings", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md50", null ]
-      ] ]
+      [ "Search", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md47", null ],
+      [ "Sorting", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md48", null ],
+      [ "Strings", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md49", null ]
     ] ],
     [ "Prime factorization", "d7/d7f/section.html", null ],
     [ "Guidelines for reviewers and maintainers", "dc/db4/md__r_e_v_i_e_w_e_r__c_o_d_e.html", null ],
@@ -124,17 +122,17 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"",
-"cpp/io/manip/fixed.html",
-"cpp/string/wide/wcscat.html",
-"d1/def/classdata__structures_1_1linked__list_1_1list.html#af0981944884c6dc19361ff67451261c9",
-"d4/d3e/n__queens_8cpp.html#a5730b6683f6adcf5c5ef75cf53dc7160",
-"d5/da1/structnode.html#a0d4a5d1d3d77036ea6640f34b17b6554",
-"d7/d75/postfix__evaluation_8cpp.html#a4c27f949c9d6659be9f5bd2ccbe1360a",
-"d8/df0/queue__using__array_8cpp.html#a2d49e79bd164c298912db252970520d8",
-"db/d0d/prime__factorization_8cpp.html#acfb0df439a4beae5a34ef131ce737c1b",
-"dd/d33/mo__algorithm_8cpp.html#a9d4c8c7eab2aa3ddf3abd395f284bc3f",
-"dir_bb1b521853a9c46347182a9d10420771.html"
+"annotated.html",
+"cpp/iterator/distance.html",
+"cpp/thread/lock.html",
+"d2/d22/jump__search_8cpp.html",
+"d4/d83/sum__of__digits_8cpp.html#a0283886819c7c140a023582b7269e2d0",
+"d6/d04/classdata__structures_1_1queue__using__array_1_1_queue___array.html#a2aaf88c9954ef3ab686f8e4bfbd87622",
+"d7/d89/double__factorial_8cpp.html",
+"d9/d35/classrange__queries_1_1heavy__light__decomposition_1_1_s_g.html#a41c733f5f5e262b308f7cb95c88c1e74",
+"db/d71/quadratic__probing__hash__table_8cpp.html#adccc63a7e57cc6dba75bd62f40feb88b",
+"dd/d47/namespacemath.html#a8d8e81a7cd59644b311ef9adb268f5f0",
+"functions_func_u.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
