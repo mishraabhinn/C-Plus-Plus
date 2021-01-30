@@ -1,9 +1,10 @@
 <map id="machine_learning::kohonen_som_tracer" name="machine_learning::kohonen_som_tracer">
-<area shape="rect" id="node1" title=" " alt="" coords="5,99,185,141"/>
-<area shape="rect" id="node2" href="$d8/d77/namespacemachine__learning.html#ac4010fe3a52a74e8b5b1aaadfe38b46f" title=" " alt="" coords="233,99,404,141"/>
-<area shape="rect" id="node3" href="/Users/runner/runners/2.169.1/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/numeric/math/exp.html#" title=" " alt="" coords="462,5,531,32"/>
-<area shape="rect" id="node4" href="$d9/d66/group__machine__learning.html#gab53c14440b2b2dd3172c66afc5c2f63f" title=" " alt="" coords="452,56,541,83"/>
-<area shape="rect" id="node5" href="/Users/runner/runners/2.169.1/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/algorithm/max.html#" title=" " alt="" coords="460,107,533,133"/>
-<area shape="rect" id="node6" href="/Users/runner/runners/2.169.1/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/algorithm/min.html#" title=" " alt="" coords="462,157,531,184"/>
-<area shape="rect" id="node7" href="/Users/runner/runners/2.169.1/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/numeric/math/sqrt.html#" title=" " alt="" coords="461,208,532,235"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,125,185,166"/>
+<area shape="rect" id="node2" href="$d8/d77/namespacemachine__learning.html#ac4010fe3a52a74e8b5b1aaadfe38b46f" title=" " alt="" coords="233,125,404,166"/>
+<area shape="rect" id="node3" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/numeric/math/exp.html#" title=" " alt="" coords="495,5,565,32"/>
+<area shape="rect" id="node4" href="$d9/d66/group__machine__learning.html#gab53c14440b2b2dd3172c66afc5c2f63f" title=" " alt="" coords="485,56,575,83"/>
+<area shape="rect" id="node5" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/algorithm/max.html#" title=" " alt="" coords="493,107,567,133"/>
+<area shape="rect" id="node6" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/algorithm/min.html#" title=" " alt="" coords="495,157,565,184"/>
+<area shape="rect" id="node7" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/numeric/math/sqrt.html#" title=" " alt="" coords="495,208,565,235"/>
+<area shape="rect" id="node8" href="$d8/d77/namespacemachine__learning.html#a5305cc18d11943d3dc0d66e70d7e9c44" title=" " alt="" coords="452,259,608,285"/>
 </map>

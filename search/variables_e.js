@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['test_5fset_4038',['test_set',['../d3/d7d/brute__force__string__searching_8cpp.html#ae2abaa9caa13fff35e45edca00bee123',1,'brute_force_string_searching.cpp']]],
-  ['top_4039',['top',['../d2/d2c/structtower.html#acb535964abd34c47678a4ade0628223d',1,'tower']]]
+  ['rear_4963',['rear',['../d6/d04/classdata__structures_1_1queue__using__array_1_1_queue___array.html#a9883dfcceede9a42227d2d313ae86f85',1,'data_structures::queue_using_array::Queue_Array']]],
+  ['root_4964',['root',['../d0/d58/classgraph_1_1_rooted_tree.html#ab22a97bf6209a085fc2d788c3c0dacbe',1,'graph::RootedTree']]],
+  ['root_5f_4965',['root_',['../d3/d95/classdata__structures_1_1tree__234_1_1_tree234.html#a348ea76c7629b2dcf740be062f970a36',1,'data_structures::tree_234::Tree234']]]
 ];

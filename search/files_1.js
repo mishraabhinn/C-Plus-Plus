@@ -1,14 +1,7 @@
 var searchData=
 [
-  ['bayes_5ftheorem_2ecpp_2461',['bayes_theorem.cpp',['../d5/d67/bayes__theorem_8cpp.html',1,'']]],
-  ['binary_5fexponent_2ecpp_2462',['binary_exponent.cpp',['../de/dcf/binary__exponent_8cpp.html',1,'']]],
-  ['binary_5fsearch_2ecpp_2463',['binary_search.cpp',['../df/dd5/binary__search_8cpp.html',1,'']]],
-  ['binary_5fsearch_5ftree_2ecpp_2464',['binary_search_tree.cpp',['../d3/d26/binary__search__tree_8cpp.html',1,'']]],
-  ['binaryheap_2ecpp_2465',['binaryheap.cpp',['../de/dc3/binaryheap_8cpp.html',1,'']]],
-  ['binomial_5fdist_2ecpp_2466',['binomial_dist.cpp',['../d6/db0/binomial__dist_8cpp.html',1,'']]],
-  ['bisection_5fmethod_2ecpp_2467',['bisection_method.cpp',['../d7/d6a/bisection__method_8cpp.html',1,'']]],
-  ['brent_5fmethod_5fextrema_2ecpp_2468',['brent_method_extrema.cpp',['../db/d01/brent__method__extrema_8cpp.html',1,'']]],
-  ['brute_5fforce_5fstring_5fsearching_2ecpp_2469',['brute_force_string_searching.cpp',['../d3/d7d/brute__force__string__searching_8cpp.html',1,'']]],
-  ['bubble_5fsort_2ecpp_2470',['bubble_sort.cpp',['../d8/d13/bubble__sort_8cpp.html',1,'']]],
-  ['buzz_5fnumber_2ecpp_2471',['buzz_number.cpp',['../d1/d76/buzz__number_8cpp.html',1,'']]]
+  ['adaline_5flearning_2ecpp_3045',['adaline_learning.cpp',['../d5/db0/adaline__learning_8cpp.html',1,'']]],
+  ['addition_5frule_2ecpp_3046',['addition_rule.cpp',['../d6/d4a/addition__rule_8cpp.html',1,'']]],
+  ['armstrong_5fnumber_2ecpp_3047',['armstrong_number.cpp',['../d4/d5d/math_2armstrong__number_8cpp.html',1,'']]],
+  ['avltree_2ecpp_3048',['avltree.cpp',['../d8/dee/avltree_8cpp.html',1,'']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['x_4042',['x',['../d8/dc8/struct_point.html#ab99c56589bc8ad5fa5071387110a5bc7',1,'Point']]]
+  ['up_4985',['up',['../d9/d23/classgraph_1_1_lowest_common_ancestor.html#a46d10f669791e3da9a4809bd8ff8d3ad',1,'graph::LowestCommonAncestor']]]
 ];

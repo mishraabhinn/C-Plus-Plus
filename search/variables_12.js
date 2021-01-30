@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['y_4043',['y',['../d8/dc8/struct_point.html#a2e1b5fb2b2a83571f5c0bc0f66a73cf7',1,'Point::y()'],['../d8/dc8/struct_point.html#afa38be143ae800e6ad69ce8ed4df62d8',1,'Point::y()']]]
+  ['value_4986',['value',['../d9/d49/structdata__structures_1_1_node.html#a6b973b0bded99b0c0bd84e887bf8c731',1,'data_structures::Node']]],
+  ['values_4987',['values',['../d2/d2c/structtower.html#a3ebb75c13c57d51a8a1ba1ea54a515e9',1,'tower']]]
 ];
